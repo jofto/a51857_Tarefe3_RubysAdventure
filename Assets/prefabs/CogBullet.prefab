@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4474309302912123699}
   - component: {fileID: 4172461582973993614}
   - component: {fileID: 9057775348496530990}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: CogBullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 202560747429874707}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -15.01, y: -2.21, z: 0}
-  m_LocalScale: {x: 0.21757737, y: 0.21757737, z: 0.21757737}
+  m_LocalScale: {x: 0.14168638, y: 0.14168638, z: 0.14168638}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
